@@ -10,7 +10,7 @@
     --gradient: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
     --white: #ffffff;
     --transition: all 0.3s ease;
-    --container-width: 1000px;
+    --container-width: 1200px;
     --font-heading: 'Outfit', sans-serif;
     --font-body: 'Inter', sans-serif;
 }
